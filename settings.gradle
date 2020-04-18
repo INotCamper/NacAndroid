@@ -1,0 +1,2 @@
+rootProject.name='Escolhas'
+include ':app'

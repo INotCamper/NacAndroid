@@ -1,0 +1,43 @@
+<resources>
+    <string name="app_name">Escolhas</string>
+    <string name="startButton">Começar</string>
+    <string name="textviewplaceholder">TextViewPlaceHolder</string>
+    <string name="buttontopplaceholder">ButtonTopPlaceHolder</string>
+    <string name="buttonbotplaceholder">ButtonBotPlaceHolder</string>
+
+    <string name="infoStart">Bem vindo, você terá duas escolhas, se você escolher a errada, você perde, simples né? Boa sorte, você vai precisar!</string>
+
+    <string-array name="levelTexts">
+        <item>Você entra em uma sala escura, a porta se fecha, na sua frente há uma porta branca e um botão vermelho, qual você prefere?</item>
+        <item>Ótimo, bem vindo a segunda sala, na sua frente há uma ponte de cordas e um caiaque, sua vida depende disso, qual a sua escolha?</item>
+        <item>Você pegou o caiaque e saiu por um rio que ia de encontro com a sala. Parabéns, você está livre, hora de voltar para casa, na sua frente há um jipe e um avião, qual te daria mais conforto?</item>
+        <item>Ao sair com o carro, você vê o aviao pousando com outros três aviões logo atrás dele, o motorista chama você e te oferece uma água engarrafada e uns doces, mas você só pode pegar um.</item>
+    </string-array>
+
+    <string-array name="buttonCorrect">
+        <item>Ir em direção da porta</item>
+        <item>Adrenalina na veia escolho o caiaque</item>
+        <item>Entrar no carro, tenho medo de altura</item>
+        <item>Fiquei com sede depois de tudo isso, quero a água</item>
+    </string-array>
+
+    <string-array name="buttonWrong">
+        <item>Apertar o botão</item>
+        <item>Tenho medo de água, escolho a ponte</item>
+        <item>Avião, estou com pressa</item>
+        <item>Preciso de açúcar no sangue, quero os doces</item>
+    </string-array>
+
+    <string-array name="loseInLevel">
+        <item>Ao apertar o botão, um piano cai em cima de você mas você não percebeu até que fosse tarde de mais</item>
+        <item>Seu medo de água não ajudou, a sala inteira encheu de água</item>
+        <item>Sua pressa não ajudou, o avião era clandestino e foi pego pela força aérea local</item>
+        <item>NUNCA aceite doces de estranhos, sua mãe não te ensinou isso?</item>
+    </string-array>
+    <string name="buttonLostBackStart">Voltar ao início</string>
+
+    <string name="gameWon">Parabens voce chegou em casa e tem uma bela história para contar para seus amigos</string>
+    <string name="buttonPlayAgain">Jogar Novamente</string>
+    <string name="startImageDoorDescription">Uma imagem de uma porta preta</string>
+
+</resources>
